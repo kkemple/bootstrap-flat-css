@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-flat-css",
+  "version": "0.1.0",
+  "authors": [
+    "Kurtis Kemple <kurtiskemple@gmail.com>"
+  ],
+  "description": "Bootstrap CSS styles with a modern flat look",
+  "main": "bootstrap-flat.css",
+  "keywords": [
+    "bootstrap",
+    "flat",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kkemple/bootstrap-flat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0"
+  }
+}
